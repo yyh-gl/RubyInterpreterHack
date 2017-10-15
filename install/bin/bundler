@@ -1,0 +1,4 @@
+#!/Users/Y_h/.rbenv/versions/rubyhackchallenge/build/../install/bin/ruby
+# frozen_string_literal: true
+
+load File.expand_path("../bundle", __FILE__)

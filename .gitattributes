@@ -1,0 +1,6 @@
+ruby/*.gemspec diff=ruby
+ruby/*.rb diff=ruby
+ruby/bin svn-properties=svn:ignore=ruby
+ruby/bin/* diff=ruby
+ruby/tool/update-deps diff=ruby
+ruby/tool/make-snapshot diff=ruby
