@@ -4,7 +4,9 @@ Hacks Ruby's Interpreter "MRI (Matz Ruby Interpreter)".
 
 ## ディレクトリ構成
 ・ruby：Rubyのソースコード
+
 ・insatll：Ruby CLI
+
 ・build：コンパイルしたコード
 
 ## ビルド手順
