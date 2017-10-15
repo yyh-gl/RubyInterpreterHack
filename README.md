@@ -4,11 +4,12 @@ Hacks Ruby's Interpreter "MRI (Matz Ruby Interpreter)".
 
 ## ディレクトリ構成
 rubyinterpreterhack/
- ├ ruby/       Rubyのソースコード
+
+├ ruby/       Rubyのソースコード
  
- ├ insatll/    Ruby CLI
- 
- └ build/      コンパイルしたコード
+├ insatll/    Ruby CLI
+
+└ build/      コンパイルしたコード
 
 ## ビルド手順
 ````
